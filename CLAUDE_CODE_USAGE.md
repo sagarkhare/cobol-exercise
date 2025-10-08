@@ -2,7 +2,7 @@
 
 ## Setup
 - **Version**: Claude Code CLI (Sonnet 4.5, Model ID: claude-sonnet-4-5-20250929)
-- **Time spent**: Approximately 45-60 minutes
+- **Time spent**: Approximately 90-120 minutes
 - **Approach**: Mixed (Strategic planning by user, autonomous execution by Claude Code)
 - **COBOL Knowledge Before Starting**: Intermediate - had practical COBOL experience and prior use of Cursor/Copilot for MVPs
 
